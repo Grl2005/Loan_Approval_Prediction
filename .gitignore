@@ -1,0 +1,8 @@
+loan_data.csv
+.ipynb_checkpoints/
+*.ipynb
+.venv/
+venv/
+__pycache__/
+.DS_Store
+.env
